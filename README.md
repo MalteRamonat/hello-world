@@ -1,2 +1,2 @@
 # hello-world
-just trying out github
+Example Project Description
